@@ -7,9 +7,7 @@
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/>
 </div>
 
-<div align="center">
-	[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Student,+developer)](https://github.com/PinJron)
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Student,+developer)](https://github.com/PinJron)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PinJron&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
